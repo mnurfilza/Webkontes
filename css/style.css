@@ -13,7 +13,12 @@ body{
 .navbar{
     margin-top: -40px;
 }
-
+.bar{
+    margin-top: -39px;
+}
 .jumbotron{
-    padding-bottom: 170px;
+    padding-bottom: 130px;
+}
+.jumbo{
+    margin-top: 90px;
 }
