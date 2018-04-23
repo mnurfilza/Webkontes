@@ -10,15 +10,24 @@
 body{
     background-color: #dfdfdf;
 }
-.navbar{
-    margin-top: -40px;
-}
-.bar{
-    margin-top: -39px;
-}
 .jumbotron{
-    padding-bottom: 130px;
+    padding-top: 100px;
 }
-.jumbo{
-    margin-top: 90px;
+.background{
+    background-color: #ffff;
+    top: -70px;
+    position: relative;
+    box-shadow: 0 0 10px #dfdfdf;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+.card{
+    border-style: none;
+    background: transparent;
+}
+.padding{
+    padding-top: 10px;
+}
+.cardus{
+    position: left;
 }
