@@ -31,3 +31,22 @@ body{
 .cardus{
     position: left;
 }
+
+hr .onepixel{
+    border: 15px #fff;
+}
+
+#content{
+    float: left;
+}
+.img-article{
+}
+
+.jarak{
+    padding: 5px;
+    margin-top: 20px;
+
+}
+.media{
+    border-bottom: 
+}
