@@ -4,3 +4,11 @@ body{
 .content{
    
 }
+.periksa-tiket{
+    margin-top: 10px;
+    padding-bottom: 20px;
+}
+footer{
+    background: #cccc;
+    padding-top: 20px;
+}
