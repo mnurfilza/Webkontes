@@ -7,7 +7,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
     <link href="open-iconic-master/font/css/open-iconic.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/artikel.css">
     <link rel="shortcut icon" href="img/icon.png">
     <title>Portal Informasi Pendidikan - LPPPTK KPTK</title>
   </head>
@@ -44,11 +44,29 @@
                 </div>
               </nav>
 
+              <!--Jumbo start-->
+
+              <div class="jumbotron jumbotron-fluid text-center justify-center">
+                  <div class="container">
+                      <h1 class="display-3">Temukan Informasi Yang Anda Butuhkan</h1>
+                      <p class="lead">Halaman ini memberikan anda informasi tentang LPPPTK KPTK</p>
+                      <hr class="my-2">
+                      <a href=""><p>Info Selengkapnya</p></a>
+                      <div class="search-box">
+                            <div class="input-group mb-3">
+                                    <input type="text" class="form-control form-control-lg" placeholder="Temukan" aria-label="Recipient's username" aria-describedby="basic-addon2">
+                                    
+                                      <button class="btn btn-search" type="button"><span class="oi" data-glyph="magnifying-glass"></span></button>
+                                  </div>
+                      </div>
+                  </div>
+              </div>
+              <!--Jumbo End-->
               <!--Start Index Body-->
               
                 <div class="container">
                   <div class="row">
-                    <div class="col-lg-10">
+                    <div class="col-md-12">
                             <div class="card-deck">
                                     <div class="card">
                                       <img class="card-img-top" src="img/logo.png" alt="Card image cap">
@@ -75,16 +93,120 @@
                                       </div>
                                     </div>
                                   </div>
+                                  </div>
+                                  </div>
+                                  <div class="row">
+                                      <div class="col-md-12">
+                                  <div class="card-deck">
+                                        <div class="card">
+                                          <img class="card-img-top" src="img/logo.png" alt="Card image cap">
+                                          <div class="card-body">
+                                            <h5 class="card-title">Card title</h5>
+                                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                          </div>
+                                        </div>
+                                        <div class="card">
+                                          <img class="card-img-top" src="img/logo.png" alt="Card image cap">
+                                          <div class="card-body">
+                                            <h5 class="card-title">Card title</h5>
+                                            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                          </div>
+                                        </div>
+                                        <div class="card">
+                                          <img class="card-img-top" src="img/logo.png" alt="Card image cap">
+                                          <div class="card-body">
+                                            <h5 class="card-title">Card title</h5>
+                                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                      
+    
                                   
                     </div>            
                   </div>
               </div>
               <!--end index body-->
 
+              <!--pagination-->
+              <div class="container">
+
+                        <nav aria-label="Page navigation example pagination">
+                                <ul class="pagination justify-content-center">
+                                  <li class="page-item disabled">
+                                    <a class="page-link" href="#" tabindex="-1">Previous</a>
+                                  </li>
+                                  <li class="page-item"><a class="page-link" href="#">1</a></li>
+                                  <li class="page-item"><a class="page-link" href="#">2</a></li>
+                                  <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                  <li class="page-item">
+                                    <a class="page-link" href="#">Next</a>
+                                  </li>
+                                </ul>
+                              </nav>
+              </div>
+
         <script src="js/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="js/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
         <script src="js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
         <script type="JavaScript"  src="js/style.js"></script>
  </body>
+ <footer>
+        <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <h3>
+                    Pintasan
+                </h3>
+                
+                <p>
+                    <a href="http://kptk.or.id/"  target="_blank">
+                        Beranda
+                    </a>
+                </p>
+                <p>
+                    <a href="http://wise.itjen.kemdikbud.go.id/" target="_blank">
+                        Whistle Blowing System
+                    </a>
+                </p>
+                <p>
+                    <a href="http://kptk.or.id/aduan" target="_blank">
+                        Pengaduan Masyarakat
+                    </a>
+                </p>
+                <p>
+                    <a href="http://kptk.or.id/indeks" target="_blank">
+                        Indeks Artikel
+                    </a>
+                </p>
+            
+          </div>
+            <div class="col-md-3">
+          <div class="icon-nav">
+          <div class="container">
+              <h3 class="font-base line-height-tightest font-weight-medium text-shorter text-current-from-lg margin-top-broadest margin-top-thin-from-xs margin-bottom-thinnest">Media Sosial</h3>
+            <div class="row">
+              <div class="col-3 col-sm-2">
+                <a href=""><img src="icons/fb-icon.png" alt="" srcset=""></a>
+              </div>
+              <div class="col-3 col-sm-2">
+                  <a href=""><img src="icons/twitter.png" alt="" srcset=""></a>
+                </div>
+                <div class="col-3 col-sm-2">
+                    <a href=""><img src="icons/youtube.png" alt="" srcset=""></a>
+                  </div>
+                  <div class="col-3 col-sm-2">
+                      <a href=""><img src="icons/instagram.png" alt="" srcset=""></a>
+                    </div>
+              </div>
+            </div>
+          </div>
+            </div>
+        </div>
+        </div>
+    </footer>
  </html>
     

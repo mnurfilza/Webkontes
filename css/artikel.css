@@ -1,0 +1,25 @@
+.btn-search{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 48px;
+    width: 55px;
+    background: 0 0;
+    border: 2px solid transparent;
+    font-size: 24px;
+    color: #999;
+}
+.search-box{
+    position: relative;
+}
+
+.card{
+    border-style: none; 
+}
+footer{
+    background: #EEEEEE;
+    padding-top: 20px;
+}
+.pagination{
+    padding-bottom: 20px;
+}
