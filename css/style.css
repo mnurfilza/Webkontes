@@ -1,10 +1,16 @@
 .nav-link{
     font-size: 17px;
 }
+.nav-icon{
+    font-size: 19px;
+}
 
 .btn{
     background-color: #ffff;
 
+}
+.bodyContent{
+    padding-top: 10px;
 }
 
 body{
@@ -32,14 +38,11 @@ body{
     position: left;
 }
 
-hr .onepixel{
-    border: 15px #fff;
-}
-
 #content{
     float: left;
 }
-.img-article{
+.side-line .card-deck{
+    border-left: 22px #000;
 }
 
 .jarak{
@@ -47,6 +50,27 @@ hr .onepixel{
     margin-top: 20px;
 
 }
-.media{
-    border-bottom: 
+
+.icon-nav{
+    float: right;
+    size: 20px; 
+}
+.artikel-body {
+    padding-top: 20px;  
+    padding-bottom: 20px;
+}
+.article-nav{
+    margin-top: 20px;
+    background-color: #fff;
+    padding-bottom: 20px;
+}
+
+#myTab{
+    padding-left: 0px;
+    margin-top: 20px;
+    list-style: none;
+    border-style: none;
+}
+.nav-top{
+    padding-top: 20px;
 }
